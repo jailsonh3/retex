@@ -23,8 +23,6 @@ class ListAvailableCarUseCase {
             name
         );
 
-        console.log(cars);
-
         return cars;
     }
 }

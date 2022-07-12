@@ -36,8 +36,6 @@
 **Requitos Funcionais**
 
 > 1. Deve ser possível cadastrar uma especificação para um carro.
-> 2. Deve ser possível listar todas as especificaçẽos.
-> 3. Deve ser possivel listar todos os carros.
 
 
 **Requitos não Funcionais**
