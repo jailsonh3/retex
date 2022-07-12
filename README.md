@@ -52,7 +52,6 @@
 **Requitos Funcionais**
 
 > 1. Deve ser possível cadastrar a imagem do carro
-> 2. Deve ser possível listar todos os carros.
 
 **Requitos não Funcionais**
 
