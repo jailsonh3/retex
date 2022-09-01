@@ -79,3 +79,21 @@
 > 2. Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo usúario.
 > 3. Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo carro.
 > 4. O usuário deve estar logado na aplicação
+
+
+## RECUPERAÇÂO DE SENHA
+---
+
+**Requitos Funcionais**
+
+> 1. Deve ser possível o usuário recuperar a senha informando o e-mail
+> 2. O usuário deve receber um e-email com o passo a passa para a recuperação de senha
+> 3. O usuário deve conseguir inserir uma nova senha
+
+**Requitos não Funcionais**
+
+
+**Regra de Negócio**
+
+> 1. O usuário precisa informar uma nova senha
+> 2. O link enviado para a recuperação deve expirar em 3 horas
