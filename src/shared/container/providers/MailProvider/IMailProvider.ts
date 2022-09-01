@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 interface IMailProvider {
     sendMail(
         to: string,

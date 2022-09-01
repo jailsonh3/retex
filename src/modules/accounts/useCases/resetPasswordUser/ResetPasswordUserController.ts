@@ -7,8 +7,6 @@ class ResetPasswordUserController {
     async handle(request: Request, response: Response): Promise<Response> {
         const { token } = request.query;
 
-        console.log(token);
-
         const { password } = request.body;
 
         const resetPasswordUserUseCase = container.resolve(
